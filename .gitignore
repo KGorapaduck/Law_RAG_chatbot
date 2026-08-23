@@ -1,0 +1,11 @@
+# Environments
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Vector DB & Data
+chroma_law_db_bge/
+data/
+*.pdf
